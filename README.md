@@ -12,6 +12,8 @@ This repository is made only for the sole purpose of being a demonstration test 
 
  2- Adapting the model, the AI system could be taught to understand changes in writing patterns that would lead to suspect the presence of a disease such as Parkinson's, among others. 
 
-This model is initially deployed on Intel Habana Gaudi DL1 machines on AWS. 
+This model is initially deployed on Intel Habana Gaudi DL1 machines on AWS (EC2). 
 
 The foundations of this model emanate from (MNIST and Keras): https://github.com/fchollet/keras , http://yann.lecun.com/exdb/mnist/ 
+
+Video pitch: https://youtu.be/WS8VCiMqdPA
